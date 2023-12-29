@@ -1,0 +1,266 @@
+ [
+   {
+        
+        "name": "Redmi Note 10 Pro",
+        "price": 245.67,
+        "description": "Redmi Note 10 Pro supports Super VOOC fast charging. As far as the cameras are concerned, the Oppo F21 Pro 5G on the rear packs a triple camera setup featuring a 64-megapixel (f/1.7) primary camera; a 2-megapixel (f/2.4) camera, and a 2-megapixel (f/2.4) camera. The rear camera setup has autofocus.",
+        "ratings": "5",
+        "images": [
+            {
+                "image": "/images/products/RedmiNote10pro.jpg"
+                
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 3,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+       
+        "name": "IPHONE 14 Pro",
+        "price": 245.67,
+        "description": "IPHONE 14 Pro supports Super VOOC fast charging. As far as the cameras are concerned, the Oppo F21 Pro 5G on the rear packs a triple camera setup featuring a 64-megapixel (f/1.7) primary camera; a 2-megapixel (f/2.4) camera, and a 2-megapixel (f/2.4) camera. The rear camera setup has autofocus.",
+        "ratings": "5",
+        "images": [
+            {
+                "image": "/images/products/Iphone14pro.jpg"
+                
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 8,
+        "numOfReviews": 20,
+        "reviews": []
+       
+    },
+    {
+       
+        "name": "OPPO F21 Pro",
+        "price": 245.67,
+        "description": "OPPO F21 Pro supports Super VOOC fast charging. As far as the cameras are concerned, the Oppo F21 Pro 5G on the rear packs a triple camera setup featuring a 64-megapixel (f/1.7) primary camera; a 2-megapixel (f/2.4) camera, and a 2-megapixel (f/2.4) camera. The rear camera setup has autofocus.",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "Lenovo Ideapad Slim3",
+        "price": 245.67,
+        "description": "Lenovo Ideapad Slim3 supports Super VOOC fast charging. As far as the cameras are concerned, the Oppo F21 Pro 5G on the rear packs a triple camera setup featuring a 64-megapixel (f/1.7) primary camera; a 2-megapixel (f/2.4) camera, and a 2-megapixel (f/2.4) camera. The rear camera setup has autofocus.",
+        "ratings": "3.5",
+        "images": [
+            {
+                "image": "/images/products/LenovoIdeapadSlim3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "ASUS Vivobook 15",
+        "price": 245.67,
+        "description": "ASUS [SmartChoice] Vivobook 15, Intel Celeron N4020, 15.6 (39.62 cms) HD, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Fingerprint/Silver/1.8 kg), X515MA-BR024WS",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/AsusVivobook.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "Apple MacBook Pro 2021",
+        "price": 245.67,
+        "description": "Apple 2021 MacBook Pro (14-inch/35.97 cm, M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Silver",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/AppleMacbookAir.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "SKYTONE® Electric Pressure Cooker",
+        "price": 245.67,
+        "description": "SKYTONE® Electric Pressure Cooker 5 Litre - CROCK POT Slow Cooking Multi-Function With Stainless Steel Bowl, One Button Use Instant Cooking | All-in-1 Function For Indian Kitchen Racipes Included",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/SkytoneCooker.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "Bosch TrueMixx Pro",
+        "price": 245.67,
+        "description": "Bosch TrueMixx Pro Mixer Grinder MGM8842MIN, 1000W 4 Jars Black",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/BoschMixx.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "AGARO Marvel",
+        "price": 245.67,
+        "description": "AGARO Marvel 9 Liters Oven Toaster Griller,Cake Baking Otg (Black),800 Watts",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/AgaroOven.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "Apple AirPods Pro (2nd Generation)",
+        "price": 245.67,
+        "description": "Apple AirPods Pro (2nd Generation) Active noise cancellation | Type C charging",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/AppleAirpods.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "BoAt Rockerz 450",
+        "price": 245.67,
+        "description": "BoAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes(Luscious Black)",
+        "ratings": "4",
+        "images": [
+            {
+                "image": "/images/products/BoatRockerz.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "Puma Shoe",
+        "price": 245.67,
+        "description": "Puma Unisex-Adult SmashicCasual Shoe",
+        "ratings": "5",
+        "images": [
+            {
+                "image": "/images/products/PumaShoe.jpg"
+            }
+        ],
+        "category": "Clothes/Shoes",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "TACVASEN",
+        "price": 245.67,
+        "description": "TACVASEN Men's Hooded Quilted Lined Flannel Shirt Jacket Plaid Button Down Shirts Zipper Jacket",
+        "ratings": "5",
+        "images": [
+            {
+                "image": "/images/products/Hoodie.jpg"
+            }
+        ],
+        "category": "Clothes/Shoes",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "GM Diamond 303",
+        "price": 245.67,
+        "description": "GM Diamond 303 Full Size English Willow Cricket Bat for Men and Boys | Cross Weave Tape on The Face| Lightweight | Free Cover | Short Handle",
+        "ratings": "5",
+        "images": [
+            {
+                "image": "/images/products/GM.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+       
+        "name": "Nivia Black & White Football",
+        "price": 245.67,
+        "description": "Nivia Black & White Football/Rubberized Stitched Football/32 Panel/Suitable for Hard Ground Without Grass/Training Football/for Men/Women/Size - 5 (Black/White)",
+        "ratings": "5",
+        "images": [
+            {
+                "image": "/images/products/NiviaFootball.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    }
+
+
+
+
+
+        
+ ]
